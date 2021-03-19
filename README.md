@@ -1,2 +1,2 @@
 # hackerrank
-Hackerrank Challenge Examples
+Data structures and algorithm examples from Hackerrank that I have solved.
